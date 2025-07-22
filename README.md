@@ -60,13 +60,13 @@ resume-analysis.ai/
 ## 🧪 Steps to Run Locally
 
 1. **Clone the repository**
-   ```bash
+```bash
    git clone https://github.com/RajatLatwal/resume-analysis.ai.git
    cd resume-analysis.ai
-   ```
+```
    
 2. **Create a virtual environment**
-  ```bash
+```bash
    python -m venv .venv
 ```
 
@@ -87,7 +87,7 @@ resume-analysis.ai/
 ```
 
 6. **Run the app**
-  ```bash
+```bash
   streamlit run app.py
-  ```
+```
 ---
