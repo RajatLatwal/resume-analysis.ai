@@ -63,6 +63,8 @@ resume-analysis.ai/
    ```bash
    git clone https://github.com/RajatLatwal/resume-analysis.ai.git
    cd resume-analysis.ai
+   ```
+   
 2. **Create a virtual environment**
   ```bash
    python -m venv .venv
@@ -80,9 +82,9 @@ resume-analysis.ai/
 
 5. **Add your Gemini API key**
   * Create a ``.env`` file and add:
-    ```bash
+```bash
     GOOGLE_API_KEY=your_gemini_api_key
-    ```
+```
 
 6. **Run the app**
   ```bash
